@@ -1,0 +1,171 @@
+.navbar_pro{position:fixed;height:60px; box-shadow:1px 8px 10px #888888;width:1349px;z-index:500;background-color: #fff}
+.logo{position:relative;left:20px;}
+.links{color:grey;font-size:1.2rem;top:10px}
+.Course{position: relative;left:200px}
+.About{position: relative;left: 250px}
+
+.registar{position: relative;left: 550px;top: 5px}
+.register_btn{width: 250px;height: 50px;background-color: darkorange;border:none;color:white;font-weight: 500;font-size:1.1rem}
+.contact{position: relative;left:550px;top: 5px}
+.contact_btn{width: 250px;height: 50px;border:2px solid darkorange;color:darkorange;font-weight: 500;font-size:1.1rem;background-color: white}
+
+.topheading{position: absolute;top:70px;z-index: 2;width: 50%;left: 20px;color: #4b4b4b;font-size: 2.rem}
+.topheading1{position: absolute;top:270px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading2{position: absolute;top:305px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading3{position: absolute;top:340px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading4{position: absolute;top:420px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
+.topheading5{position: absolute;top:500px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
+.knowmore{position: absolute;top:590px;left:220px;z-index: 2}
+.how{position: absolute;top: 590px;left: 80px;}
+
+
+.top_image{position:absolute;z-index:0;width:80%;right: 0px;top:59px}
+
+.sub_heading{position: relative;top:100px;left: 50px;z-index: 1}
+
+
+.coursescard{position: absolute;top: 750px;text-align: center;margin: auto;left: 100px; }
+
+.cardinternal{text-align: center;position: relative;margin: auto}
+.need{border: 2px solid ;height: 500px;top: 1200px;position: relative}
+
+
+.register_btn:hover{background-color: white;color: darkorange;border:2px solid darkorange }
+.contact_btn:hover{background-color: darkorange;color: white;border: none}
+
+
+.develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 200px;box-shadow:1px 8px 50px #dedede;}
+.work{top: 1200px;position: relative;background-color:#e8f7ff61}
+.us{top: 1200px;position: relative}
+.location{height: 200px;top: 1200px;position: relative;background-color: #fafafa}
+
+.rocket{margin:20px 00px;width:30%}
+.create{margin:20px 0px;width:30%}
+.algo{margin:20px 0px;width:30%}
+.logic{margin:20px 0px;width:30%}
+.heading_about{text-align: center;margin-top: 10px}
+
+
+.uspara{text-align: left;font-size:1.1rem;width: 80%;margin: auto;position: relative;top:52px;line-height: 1.7;font-weight: 500;color: #525252}
+
+.heading_how{text-align: center}
+.why{text-align: center}
+.deve{text-align: center}
+.registar2{position: relative;text-align: center;margin: auto;left: 550px;bottom:130px}
+.best{height: 500px;top: 1200px;position: relative;height:100px;background-color: #fff4e8;margin-top:20px;margin-bottom: 20px}
+.registar3{position: absolute;bottom:28px; ;margin: auto;right:80px}
+
+.fun{position: absolute;top:28px;left: 20px;font-weight:400;color: #2f2f2f}
+
+/*
+.step1_img{display: inline}
+.step2_img{}
+
+.step4_img{width: 15%}
+.step5_img{width: 8%;position: relative;left:245px;top: 40px}
+.step6_img{width:10%;position: relative;left: 940px;top: 40px}
+
+.step-div{border: 1px solid}
+.step1_img{position: relative;left: 200px}
+.step_para1{position: relative;left:401px;bottom:80px;font-size: 1.5rem;width: 500px;}
+.step_heading1{position: absolute;top:100px;left: 400px;font-size: 2rem;display: inline}
+.step2_img{position: relative;left: 900px;;display:inline;top: 10px}
+.step_heading2{position:relative;left:450px;width:300px;font-size: 2rem;display: inline}
+.step_para2{position: relative;right:160px;font-size: 1.5rem;width:70%;display: inline;top:35px}
+
+.step1_div{height: 180px;}
+
+.step3_img{width:9%;position: relative;left:240px;top: 15px}
+.step_heading3{position: relative;left:300px;font-size: 2rem;width: 500px;display: inline}
+.step_para3{position: relative;right:110px;font-size: 1.5rem;width: 700px;display: inline;top:35px}
+
+
+.step4_img{position: relative;left: 900px;;top: 20px}
+.step_heading4{position:relative;left:300px;font-size: 2rem;width: 500px;display: inline}
+.step_para4{position: relative;right:400px;font-size:1.5rem;width: 700px;text-align:right;display: inline;top: 35px;}
+
+.step_heading5{position: relative;left: 280px;font-size: 2rem;display: inline}
+.step_para5{position: relative;right:145px;font-size: 1.5rem;width: 700px;display: inline;top:35px}
+.step_heading6{position:relative;left:410px;font-size: 2rem;width: 500px;display: inline}
+.step_para6{position: relative;right:380px;font-size:1.5rem;width: 700px;text-align: right;display: inline;top:45px}
+
+.step_para3i{position:relative;display: inline;left:385px;width: 200px;font-size: 1.5rem}
+
+.step_para4i{width: 200px;font-size: 1.5rem;position: relative;left: 785px;bottom: 55px;}
+.step-div{margin-top:50px;margin-bottom: 50px}
+
+.step_para5i{position:relative;display: inline;left:385px;width: 200px;font-size: 1.5rem}
+
+
+.step_para6i{position:relative;display: inline;left:275px;width: 200px;font-size: 1.5rem}
+*/
+
+
+.whatsapp_float {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#ffffff;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+        font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+        z-index:100;
+}
+
+.whatsapp-icon {
+	margin-top:16px;
+}
+/* for mobile */
+@media screen and (max-width: 767px){
+     .whatsapp-icon {
+	 margin-top:10px;
+     }
+    .whatsapp_float {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        right: 10px;
+        font-size: 22px;
+    }
+}
+
+@media(max-width:998px){.topheading{position: absolute;top:70px;z-index: 2;width: 50%;left: 20px;color: #ff0000;font-size: 2.0rem}
+.topheading1{position: absolute;top:200px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading2{position: absolute;top:235px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading3{position: absolute;top:270px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading4{position: absolute;top:320px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
+.topheading5{position: absolute;top:400px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
+.knowmore{position: absolute;top:520px;left:220px;z-index: 2}
+.how{position: absolute;top:520px;left: 80px;}
+.registar{position: relative;left:200px;top: 5px}
+.develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 150px;box-shadow:1px 8px 50px #dedede;}
+
+}
+
+.table_heading1{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+.table_heading2{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+.table_heading3{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+.table_heading4{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+
+
+.about_container{width:100%}
+
+
+#uspara2{margin:20px 0px 20px 70px;font-weight: 700;color:#00b6cf}
+
+.certificate_img{position: relative;right:100px;bottom:160px}
+.student_work{position: relative;top: 1200px}
+.top10{text-align: center;margin: 100px 0px 100px 0px}
+
+
+.step3_img{width:10%;display:inline;}
+
+.step4_img{width:14%;display:inline;}
+.step5_img{width:10%;display:inline;}
+.step6_img{width:10%;display:inline;}
+.step1_div{border: 3px solid;width:80%;margin: auto;background-color: #fff}
+.step_heading1{position: relative;bottom:120px;width:300px;left: 200px}
