@@ -1,0 +1,12 @@
+.f{width:400px;margin: 20px}
+.input1{position: absolute;left: 250}
+.form1{position:relative;left:40px;top:30px;box-shadow:1px 8px 50px #dedede;width: 500px;padding:5}
+.btns{position: relative;left:20px}
+@media(max-width:998px){.input1{width:500px;height:100px}
+}
+
+h1{position: relative;top: 10px;left:55px;display: inline;width: 500px}
+label{font-weight: 500;}
+.home{position: relative;bottom:54px;left:120px}
+
+

@@ -1,0 +1,82 @@
+<html>
+<head>
+    <title>Ragistration for Code Y</title>
+    <link rel="stylesheet" href="code%20Yregister.css" input1>
+    <link rel="stylesheet" href="bootstrap.css">
+     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />    
+
+    </head>
+<body>
+  
+<div class="main">
+   
+<h1 >Ragister Here For Free.</h1>     
+<div class="form1">   
+<form method="post" autocomplete="off" name="google-sheet">  
+   
+<div class="from-group f f1">
+<label>Enter email</label>    
+<input type="email" name="email" class="from-contorl input1" id="exampleinputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+</div>    
+<div class="from-group f f2">
+<label>Enter First Name</label>      
+<input type="text" class="from-control input1" name="name" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Enter name" required>
+</div>
+<div class="from-group f f3">
+    <label >Enter  Last Name</label>  
+<input type="text" class="from-control input1" name="Lname" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Enter Last name" required>
+</div>
+<div class="from-group f f4">
+    <label>Message</label>  
+<input type="text" class="from-control input1" name="message" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Message" required>
+</div>
+<div class="from-group f f5">
+    <label>Enter Your Age</label>  
+<input type="number" class="from-control input1" name="Age" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Age" required>
+</div>
+<div class="from-group f f6">
+    <label>Enter Current Address</label>  
+<input type="text" class="from-control input1" name="Address" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Address" required>
+</div>
+<div class="from-group f f7">
+    <label>Enter Cource</label>  
+<input type="" class="from-control input1" name="Course" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Cource" required>
+</div>
+<div class="from-group f f8">
+    <label>Enter Contact Number</label>  
+<input type="number" class="from-control input1" name="Contact Number" id="exampleInputEmail1" aria-describedby="emalHelp" placeholder="Contact Number" required>
+</div>
+
+<button type="submit" class="btn btn-primary  btnS" >Submit</button>  
+</form>
+    <a href="code%20Y.html" class="home"><button type="button" class="btn btn-outline-success">Home</button></a>    
+    </div>
+    </div>
+          <script>
+//              alert("Hello")
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbyDeVNAOGK7R6o2k-QPMrSs0HzLzRWBxM_rdYaMRj4Cr9cvFDHw/exec'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
+
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+      <script>
+    AOS.init( {offset: 100,duration: 800});
+  </script>
+
+</body>
+
+</html>
+<!--<a href="Shopexample.html"><button type="button" class="btn btn-success">Your Shop Will Be Like</button> </a>   -->
+
+
+
+
+

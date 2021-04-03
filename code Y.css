@@ -1,8 +1,9 @@
-.navbar_pro{position:fixed;height:60px; box-shadow:1px 8px 10px #888888;width:1349px;z-index:500;background-color: #fff}
+.navbar_pro{position:fixed;height:60px; box-shadow:1px 8px 10px #888888;width:100%;z-index:500;background-color: #fff}
 .logo{position:relative;left:20px;}
 .links{color:grey;font-size:1.2rem;top:10px}
 .Course{position: relative;left:200px}
 .About{position: relative;left: 250px}
+.Home{position: relative;left:150px}
 
 .registar{position: relative;left: 550px;top: 5px}
 .register_btn{width: 250px;height: 50px;background-color: darkorange;border:none;color:white;font-weight: 500;font-size:1.1rem}
@@ -27,6 +28,8 @@
 .coursescard{position: absolute;top: 750px;text-align: center;margin: auto;left: 100px; }
 
 .cardinternal{text-align: center;position: relative;margin: auto}
+.cardinternal:hover{ box-shadow:1px 8px 30px #dedede;}
+
 .need{;height: 500px;top: 1200px;position: relative}
 
 
@@ -37,7 +40,7 @@
 .develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 200px;box-shadow:1px 8px 50px #dedede;}
 .work{top: 1200px;position: relative; height: 1600px;color: #292929;}
 .us{top: 1200px;position: relative}
-.location{height: 200px;top: 1200px;position: relative;background-image: linear-gradient(to bottom,white,#9bcbd2b5)}
+.location{height: 200px;top: 1200px;position: relative;background-color:#00b6cf}
 
 .rocket{margin:20px 00px;width:30%}
 .create{margin:20px 0px;width:30%}
@@ -165,22 +168,23 @@
 .linkdin{position:relative;left:55px;top:20px}
 .fotter_container{}
 
-.follow1{}
-.follow2{position: relative;top: 10px}
-.follow3{position: relative;top: 20px}
+.follow1{color:white;}
+.follow2{position: relative;top: 10px;color:white;}
+.follow3{position: relative;top: 20px;color:white;}
 
-.fotter_contact{position:relative;left: 50px;color:#2a2a2a}
-.number{text-align: center;margin: auto;position: relative;left:50px;color:black;font-size: 1.2rem}
-.email{position: relative;left: 50px;color: grey;font-size: 1.2rem;color: black}
+.fotter_contact{position:relative;left: 50px;color:#ffffff}
+.number{text-align: center;margin: auto;position: relative;left:50px;color:white;font-size: 1.2rem}
+.email{position: relative;left: 50px;color: grey;font-size: 1.2rem;color: white}
 
-.start{color: #2a2a2a}
-.follow_heading{color: #3b3b3b}
+.start{color:white}
+.follow_heading{color:white}
 .number_one{color: #525252;position: relative;top: 10px;}
 
 .top10{width: 80%;margin:100px auto}
 
-.made{position: relative;display: inline;width: 200px;left: 80px;bottom:20px}
-.copyright{height: 50px;top: 1200px;position: relative;}
-.heart{width:2%;position: relative;left:82px;bottom: 22px }
-.copy{position: relative;width: 150px;top: 20px;left:600px}
-
+.made{position: relative;display: inline;width: 200px;left:120px;bottom:s0px}
+.copyright{height: 50px;position: relative;}
+.heart{width:2%;position: relative;left:120px;bottom:0px }
+.copy{position: relative;width: 150px;top:40px;left:600px}
+.slider{top: 1200px;position: relative;color: #292929; width:75%;margin:120px auto}
+.able{margin-bottom:30px;text-align: center;}
