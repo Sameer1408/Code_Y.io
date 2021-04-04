@@ -93,18 +93,6 @@
     }
 }
 
-@media(max-width:998px){.topheading{position: absolute;top:70px;z-index: 2;width: 50%;left: 20px;color: #ff0000;font-size: 2.0rem}
-.topheading1{position: absolute;top:200px;z-index: 2;left: 20px;color: #4d4d4d}
-.topheading2{position: absolute;top:235px;z-index: 2;left: 20px;color: #4d4d4d}
-.topheading3{position: absolute;top:270px;z-index: 2;left: 20px;color: #4d4d4d}
-.topheading4{position: absolute;top:320px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
-.topheading5{position: absolute;top:400px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
-.knowmore{position: absolute;top:520px;left:220px;z-index: 2}
-.how{position: absolute;top:520px;left: 80px;}
-.registar{position: relative;left:200px;top: 5px}
-.develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 150px;box-shadow:1px 8px 50px #dedede;}
-
-}
 
 .table_heading1{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
 .table_heading2{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
@@ -188,3 +176,90 @@
 .copy{position: relative;width: 150px;top:40px;left:600px}
 .slider{top: 1200px;position: relative;color: #292929; width:75%;margin:120px auto}
 .able{margin-bottom:30px;text-align: center;}
+
+
+
+@media(max-width:998px){.topheading{position: absolute;top:120px;z-index: 2;width: 50%;left: 20px;color: #ff0000;font-size: 2.0rem}
+.topheading1{position: absolute;top:275px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading2{position: absolute;top:315px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading3{position: absolute;top:350px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading4{position: absolute;top:400px;z-index: 2;left: 20px;color: #4d4d4d;width:40%}
+.topheading5{position: absolute;top:400px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%;visibility: hidden;}
+.knowmore{position: absolute;top:520px;left:220px;z-index: 2}
+.how{position: absolute;top:520px;left: 80px;}
+.registar{position: relative;left:200px;top: 5px}
+.develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 150px;box-shadow:1px 8px 50px #dedede;}
+.navbar_pro{position:fixed;height:100px;box-shadow:1px 8px 10px #888888;width:100%;z-index:500;background-color: #fff}
+.links{color:grey;font-size:1.8rem;top:10px;font-weight: 900}    
+
+ .registar{position: relative;left: 398px;top:10px}
+.register_btn{width: 250px;height: 80px;background-color: darkorange;border:none;color:white;font-weight:500;font-size:1.4rem}   
+    
+.knowmore{position: absolute;top:620px;left:620px;z-index: 2;font-size: 2.2rem}
+.how{position: absolute;top: 620px;left:140px;font-size: 2.2rem}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
