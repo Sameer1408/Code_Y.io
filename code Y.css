@@ -195,22 +195,23 @@
  .registar{position: relative;left: 398px;top:10px}
 .register_btn{width: 250px;height: 80px;background-color: darkorange;border:none;color:white;font-weight:500;font-size:1.4rem}   
     
-.knowmore{position: absolute;top:620px;left:620px;z-index: 2;font-size: 2.2rem}
-.how{position: absolute;top: 620px;left:140px;font-size: 2.2rem}
+.knowmore{position: absolute;top:780px;left:620px;z-index: 2;font-size: 2.2rem}
+.how{position: absolute;top: 780px;left:140px;font-size: 2.2rem}
     
+.top_image{position:absolute;z-index:0;width:100%;right: 0px;top:59px}
     
+ .coursescard{position: absolute;top:950px;text-align: center;margin: auto;left: 100px; }   
+.need{;height: 500px;top: 2000px;position: relative}    
     
+ .develop{margin: 50px 0px 105px 0px;top:2100px;position: relative;width:70%;text-align: center;left: 200px;box-shadow:1px 8px 50px #dedede;}   
+ .slider{top:2000px;position: relative;color: #292929; width:75%;margin:120px auto}   
     
+.us{top:2100px;position: relative}   
+.work{top:2200px;position: relative; height: 1600px;color: #292929;}   
+ .student_work{position: relative;top:2200px}   
+
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+.best{height: 500px;top:2200px;position: relative;height:100px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
     
     
     
