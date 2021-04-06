@@ -27,7 +27,7 @@
 
 .coursescard{position: absolute;top: 750px;text-align: center;margin: auto;left: 100px; }
 
-.cardinternal{text-align: center;position: relative;margin: auto}
+.cardinternal{text-align: center;position: relative;margin: auto;width: 20rem}
 .cardinternal:hover{ box-shadow:1px 8px 30px #dedede;}
 
 .need{;height: 500px;top: 1200px;position: relative}
@@ -176,6 +176,13 @@
 .copy{position: relative;width: 150px;top:40px;left:600px}
 .slider{top: 1200px;position: relative;color: #292929; width:75%;margin:120px auto}
 .able{margin-bottom:30px;text-align: center;}
+.course_slider{visibility:visible}
+
+
+
+
+
+
 
 
 
@@ -203,21 +210,68 @@
  .coursescard{position: absolute;top:950px;text-align: center;margin: auto;left: 100px; }   
 .need{;height: 500px;top: 2000px;position: relative}    
     
- .develop{margin: 50px 0px 105px 0px;top:2100px;position: relative;width:70%;text-align: center;left: 200px;box-shadow:1px 8px 50px #dedede;}   
- .slider{top:2000px;position: relative;color: #292929; width:75%;margin:120px auto}   
+ .develop{margin: 50px 0px 105px 0px;top:2350px;position: relative;width:80%;text-align: center;left: 100px;box-shadow:1px 8px 50px #dedede;height:650px}   
+ .slider{top:2300px;position: relative;color: #292929; width:100%;margin:120px auto}   
     
-.us{top:2100px;position: relative}   
-.work{top:2200px;position: relative; height: 1600px;color: #292929;}   
+.us{top:2200px;position: relative}   
+.work{top:2300px;position: relative; height: 1600px;color: #292929;}   
  .student_work{position: relative;top:2200px}   
 
     
 .best{height: 500px;top:2200px;position: relative;height:100px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
     
  .location{height: 200px;top:2200px;position: relative;background-color:#00b6cf}   
+ .cardinternal{text-align: center;position:relative;margin: auto;width:28rem;visibility:visible;right:100px}   
+
+.slider3{position: relative;top:20px}
+
+#card_c{position: relative;left:40px}
+#card_p{position: relative;left:40px;top: 50px}
+    
+.need_para{font-size:2rem;text-align: center;font-weight:500;color: #525252;}    
+.why{text-align: center;margin-bottom:40px;font-size: 3rem}   
+.rocket{margin:20px 00px 0px 0px;width:40%}    
+.create{margin:20px 0px;width:40%}    
+.algo{margin:20px 0px;width:40%}    
+.logic{margin:20px 0px;width:40%}    
+    
+ 
+.table_heading1{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}
+.table_heading2{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}
+.table_heading3{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}
+.table_heading4{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}   
+.certificate_img{position: relative;left:00px;bottom:00px;width: 100%}
+
+.uspara{text-align: left;font-size:2rem;width: 80%;margin: auto;position: relative;top:52px;line-height: 1.7;font-weight: 500;color: #525252;text-align: center;font-size: 2.5rem;width: 100%}   
+    
+#uspara2{margin:20px 0px 20px 70px;font-weight: 700;color:#00b6cf;position: relative;right: 50px}
+.registar2{position: relative;text-align: center;margin:auto;left: 360px;top:70px}   
+.heading_about{text-align: center;margin-top:10px;font-size: 3rem;}   
+    
+.step1_div{width:100%;margin: auto;background-color: #fff;height:300px}    
+    
+.step1_img{position: relative;top:26px;left:20px;width: 25%}    
+.step_heading1{position: relative;bottom:170px;width:400px;left:300px;font-size: 2.5rem}    
+    
+.step_para1{position: relative;width:650px;bottom: 170px;left:300px;font-size:2.2rem}    
+ .step2_div{width:100%;margin: auto;background-color: #fff;height:300px}   
+.step2_img{position: relative;top:26px;left:20px;width: 25%}     
+  .step_heading2{position: relative;bottom:170px;width:400px;left:300px;font-size: 2.5rem} .step_para2{position: relative;width:650px;bottom: 170px;left:300px;font-size:2.2rem}    
+    
+ 
+ .step3_div{width:100%;margin: auto;background-color: #fff;height:300px}   
+.step3_img{position: relative;top:46px;left:45px;width: 20%}     
+  .step_heading3{position: relative;bottom:170px;width:400px;left:300px;font-size: 2.5rem} .step_para3{position: relative;width:650px;bottom: 170px;left:300px;font-size:2.2rem}    
+       
+ .step4_div{width:100%;margin: auto;background-color: #fff;height:300px}   
+.step4_img{position: relative;top:46px;left:45px;width: 26%}     
+  .step_heading4{position: relative;bottom:150px;width:400px;left:300px;font-size: 2.5rem} .step_para4{position: relative;width:650px;bottom: 150px;left:300px;font-size:2.2rem}     
     
     
-    
-    
+       
+ .step5_div{width:100%;margin: auto;background-color: #fff;height:350px}   
+.step5_img{position: relative;top:86px;left:85px;width: 19%}     
+  .step_heading5{position: relative;bottom:150px;width:400px;left:300px;font-size: 2.5rem} .step_para5{position: relative;width:650px;bottom: 150px;left:300px;font-size:2.2rem}        
     
     
     
