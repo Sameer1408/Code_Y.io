@@ -1,0 +1,57 @@
+.Home{position: relative;left: 200px}
+.why_div{box-shadow:1px 8px 50px #dedede;margin-right:50px}
+.teacher{box-shadow:1px 8px 50px #dedede;}
+.cont1{position:relative;margin:auto;top:50px}
+.cont2{position: relative;top:100px}
+/* .logo{width:150px;position: relative;bottom: 20px} */
+.c_div{border:1px solid #1cc2ffad;margin: 15px auto;height:60px;background-image: linear-gradient(to right,white,#1cc2ffad)}
+.arrow{display:inline;position: relative;bottom:45px;left:490px}
+.course_head{font-size: 1.2rem;position: relative;left: 10px;width: 350px;padding-top:15px}
+.program_heading{text-align:center;margin: 50px 0px 20px 0px;color: #383838}
+.stucture{text-align: center;margin:50px 0px 50px 0px;color:#383838}
+.program{width:70%;margin:auto;text-align: center;line-height: 1.8; color: #525252;font-size: 2rem}
+.why_para{font-size: 1.2rem;color:#464646;margin:20px 0px; }
+.slider0{width:80%;margin:150px auto 50px auto;box-shadow:1px 8px 50px #dedede;}
+
+.payment{position:fixed;top:590px;height:60px;width: 100%;background-color: #fff4e8;}
+.price{display: inline;position: relative;left:138px;top:2px;color: #3b3b3b}
+.cut{text-decoration:line-through;display: inline;width: 100px;position: relative;left:128px; top:2px;color: #3b3b3b}
+.now{display: inline;position: relative;left:118px;top:2px;color: #3b3b3b}
+.web_img{display: block}
+.card-body{font-size:1.2rem}
+.payment_btn{width: 250px;height: 50px;background-color:#1cc2ff;border:none;color:white;font-weight: 500;font-size:1.1rem;position: relative;left:426px}
+.payment_btn:hover{border: 2px solid #1cc2ff ;color:#1cc2ff;background-color:#fff;}
+.sites{position: relative;top:120px;text-align: center;font-size: 1.6rem}
+.web_img1{display: block}
+
+
+
+
+
+
+@media(max-width:998px){.payment{position:fixed;top:590px;height:60px;width: 100%;background-color: #fff4e8;visibility: hidden} 
+ .cont1{position:relative;margin:auto;top:50px;width:100%;}   
+ .why_div{box-shadow:1px 8px 50px #dedede;margin-right:50px;width:100%;}   
+.web_img{display:block;width: 100%}
+    h3{font-size: 3rem}
+    .why_para{font-size: 2rem} .sites{font-size: 3rem}   
+    .program_heading{font-size: 3rem}   
+    .program{font-size: 2.4rem} 
+    .stucture{text-align: center;margin:50px 0px 50px 0px;color:#383838;font-size: 3rem}
+  .course_head{font-size: 2.2rem;position: relative;left: 10px;width: 500px;padding-top:15px}  
+  .arrow{display:inline;position: relative;bottom:70px;left:640px;width:5%}  
+    .card-body{font-size: 2.2rem}   
+   
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
