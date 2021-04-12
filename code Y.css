@@ -1,23 +1,24 @@
-.navbar_pro{position:fixed;height:60px; box-shadow:1px 8px 10px #888888;width:100%;z-index:500;background-color: #fff}
+.navbar_pro{position:fixed;height:70px; box-shadow:1px 8px 10px #888888;width:100%;z-index:500;background-color: #fff;z-index:2}
 .logo{position:relative;left:20px;}
-.links{color:grey;font-size:1.2rem;top:10px}
+.links{color:grey;font-size:1.2rem;top:20px}
 .Course{position: relative;left:200px}
 .About{position: relative;left: 250px}
 .Home{position: relative;left:150px}
-
-.registar{position: relative;left: 550px;top: 5px}
+.logo_div{position:fixed;z-index: 5;width:150px;top:0px;background-color:#fff;height:5px;border-radius: 360px;}
+.logo{position:relative;bottom:12px;width:100%;left:5px}
+.registar{position: relative;left: 550px;top:15px;}
 .register_btn{width: 250px;height: 50px;background-color: darkorange;border:none;color:white;font-weight: 500;font-size:1.1rem}
-.contact{position: relative;left:550px;top: 5px}
+.contact{position: relative;left:550px;top: 15px}
 .contact_btn{width: 250px;height: 50px;border:2px solid darkorange;color:darkorange;font-weight: 500;font-size:1.1rem;background-color: white}
 
-.topheading{position: absolute;top:70px;z-index: 2;width: 50%;left: 20px;color: #4b4b4b;font-size: 2.rem}
-.topheading1{position: absolute;top:270px;z-index: 2;left: 20px;color: #4d4d4d}
-.topheading2{position: absolute;top:305px;z-index: 2;left: 20px;color: #4d4d4d}
-.topheading3{position: absolute;top:340px;z-index: 2;left: 20px;color: #4d4d4d}
-.topheading4{position: absolute;top:420px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
-.topheading5{position: absolute;top:500px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
-.knowmore{position: absolute;top:590px;left:220px;z-index: 2}
-.how{position: absolute;top: 590px;left: 80px;}
+.topheading{position: absolute;top:70px;z-index: 2;width: 50%;left: 20px;color: #4b4b4b;font-size: 2.rem;z-index: 1}
+.topheading1{position: absolute;top:270px;z-index: 2;left: 20px;color: #4d4d4d;font-size: 2.rem;z-index: 1}
+.topheading2{position: absolute;top:305px;z-index: 2;left: 20px;color: #4d4d4d;font-size: 2.rem;z-index: 1}
+.topheading3{position: absolute;top:340px;z-index: 2;left: 20px;color: #4d4d4d;font-size: 2.rem;z-index: 1}
+.topheading4{position: absolute;top:420px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%;font-size: 2.rem;z-index: 1}
+.topheading5{position: absolute;top:500px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%;font-size: 2.rem;z-index: 1}
+.knowmore{position: absolute;top:590px;left:220px;z-index: 2;font-size: 2.rem;z-index: 1}
+.how{position: absolute;top: 590px;left: 80px;;font-size: 2.rem;z-index: 1}
 
 
 .top_image{position:absolute;z-index:0;width:80%;right: 0px;top:59px}
@@ -178,7 +179,8 @@
 .able{margin-bottom:30px;text-align: center;}
 .course_slider{visibility:visible}
 
-
+.bhopal{position:absolute
+;right:230px;top:200px}
 
 
 
@@ -210,17 +212,17 @@
  .coursescard{position: absolute;top:950px;text-align: center;margin: auto;left: 100px; }   
 .need{;height: 500px;top: 2000px;position: relative}    
     
- .develop{margin: 50px 0px 105px 0px;top:2350px;position: relative;width:80%;text-align: center;left: 100px;box-shadow:1px 8px 50px #dedede;height:650px}   
- .slider{top:2300px;position: relative;color: #292929; width:100%;margin:120px auto}   
+ .develop{margin: 50px 0px 105px 0px;top:2650px;position: relative;width:80%;text-align: center;left: 100px;box-shadow:1px 8px 50px #dedede;height:650px}   
+ .slider{top:2600px;position: relative;color: #292929; width:100%;margin:120px auto}   
     
-.us{top:2200px;position: relative}   
-.work{top:2300px;position: relative; height: 1600px;color: #292929;}   
+.us{top:2600px;position: relative}   
+.work{top:2800px;position: relative; height: 1600px;color: #292929;}   
  .student_work{position: relative;top:2900px;}   
 
     
-.best{height: 500px;top:2900px;position: relative;height:200px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
+.best{height: 500px;top:3500px;position: relative;height:350px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
     
- .location{height: 500px;top:3100px;position: relative;background-color:#00b6cf}   
+ .location{height: 500px;top:3650px;position: relative;background-color:#00b6cf}   
  .cardinternal{text-align: center;position:relative;margin: auto;width:28rem;visibility:visible;right:100px}   
 
 .slider3{position: relative;top:20px}
@@ -228,7 +230,7 @@
 #card_c{position: relative;left:40px}
 #card_p{position: relative;left:40px;top: 50px}
     
-.need_para{font-size:2rem;text-align: center;font-weight:500;color: #525252;}    
+.need_para{font-size:2.4rem;text-align: center;font-weight:500;color: #525252;}    
 .why{text-align: center;margin-bottom:40px;font-size: 3rem}   
 .rocket{margin:20px 00px 0px 0px;width:40%}    
 .create{margin:20px 0px;width:40%}    
@@ -277,9 +279,9 @@
 .step6_img{position: relative;top:86px;left:85px;width: 20%}   
   .step_heading6{position: relative;bottom:150px;width:600px;left:300px;font-size: 2.5rem} .step_para6{position: relative;width:650px;bottom: 150px;left:300px;font-size:2.2rem}        
        
-  .top10{text-align: center;margin:100px 0px;font-weight:400;line-height: 3rem;font-size: 3rem;position: relative;width: 100%}  
+  .top10{text-align: center;margin:100px 0px;font-weight:400;line-height: 3rem;font-size: 3rem;position: relative;width: 100%;top:550px;line-height:4.5rem}  
     
-  .registar3{position: absolute;top:300px ;margin: auto;text-align: center;right: 400px}
+  .registar3{position: absolute;top:200px ;margin: auto;text-align: center;right: 350px}
   
   .fun{position: absolute;top:30px;left: 20px;font-weight:400;color: #2f2f2f;font-size:3rem;text-align: center}
    
@@ -293,7 +295,7 @@
     
 .number_one{color: #525252;position: relative;top: 10px;font-size: 2rem;width:280%}    
     
-.follow1{color:white;font-size: 2rem;position:absolute;right: 660px}   .follow2{color:white;font-size: 2rem;position:absolute;left: 250px;top:50px}   .follow3{color:white;font-size: 2rem;position:absolute;left: 600px;top: 50px}    
+.follow1{color:white;font-size: 2rem;position:absolute;right: 660px;top:50px}   .follow2{color:white;font-size: 2rem;position:absolute;left: 250px;top:50px}   .follow3{color:white;font-size: 2rem;position:absolute;left: 600px;top: 50px}    
     .follow_footer{width:100%;position: relative;top: 20px}    
     .follow_heading{font-size: 2.3rem;position: relative;right:100px;}   
     
@@ -302,9 +304,13 @@
 .facebook{position:absolute;width:20%;left:400px;top:58px}  
 .linkdin{position:absolute;width: 20%;left:720px;top:50px}   
  .copy{position: relative;width: 300px;top:40px;font-size: 2rem} .made{position: relative;display: inline;width: 200px;left:40px;bottom:20px;font-size:2rem}  
- .heart{width:5%;position: relative;left:40px;bottom:29px }
+ .heart{width:5%;position: relative;left:40px;bottom:29px } 
+.able{margin-bottom:30px;text-align: center;font-size:2.5rem}    
     
     
+    
+    
+
     
     
     
