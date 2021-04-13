@@ -1,6 +1,7 @@
 .Home{position: relative;left: 200px}
-.why_div{box-shadow:1px 8px 50px #dedede;margin-right:50px}
-.teacher{box-shadow:1px 8px 50px #dedede;}
+.why_div{box-shadow:1px 8px 50px #dedede;margin-right:50px;width: 600px;padding: 20px;position: relative;top: 35px;left:30px}
+.teacher{box-shadow:1px 8px 50px #dedede;width: 600px;padding: 20px;position: relative;bottom:500px;left:700px}
+.teacher{box-shadow:1px 8px 50px #dedede;width: 600px;padding: 20px;position: relative;bottom:400px}
 .cont1{position:relative;margin:auto;top:50px}
 .cont2{position: relative;top:100px}
 /* .logo{width:150px;position: relative;bottom: 20px} */
@@ -23,7 +24,7 @@
 .payment_btn:hover{border: 2px solid #1cc2ff ;color:#1cc2ff;background-color:#fff;}
 .sites{position: relative;top:120px;text-align: center;font-size: 1.6rem}
 .web_img1{display: block}
-
+.space1{display:none}
 
 
 
@@ -43,7 +44,7 @@
     .card-body{font-size:2.2rem}
     .c_div{border:1px solid #1cc2ffad;margin:55px auto;height:60px;background-image: linear-gradient(to right,white,#1cc2ffad);height:140px}   
     .slider0{width:976px}
-    .space1{position: fixed;bottom: 0px;background-color:#fff4e8;left:0;height: 150px;width: 100%}
+    .space1{position: fixed;bottom: 0px;background-color:#fff4e8;left:0;height: 150px;width: 100%;display: block;z-index: 1}
     .now1{display:inline;margin-left: 130px}
     .cut1{display:inline;text-decoration: line-through}
     .price1{display:inline;}
@@ -51,6 +52,14 @@
     .enroll1{position: relative;top:20px;right:60px; }
     
   .payment_btn{width: 250px;height: 50px;background-color:#1cc2ff;border:none;color:white;font-weight: 500;font-size:2rem;position: relative;left:426px}  
+.why_div{box-shadow:1px 8px 50px #dedede;margin-right:50px;width:900px;padding: 20px;position: relative;top: 35px;left:40px;text-align: center;}
+.teacher{box-shadow:1px 8px 50px #dedede;width:900px;padding: 20px;position: relative;top:20px;left:40px;}
+    .infinite{position: relative;height:400px}  
+    #inst{text-align: center;margin: auto}    
+    
+    
+    
+    
     
 }
 
