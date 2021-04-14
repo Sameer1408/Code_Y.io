@@ -1,0 +1,61 @@
+.f{width:400px;margin: 20px}
+.input1{position: absolute;left: 250}
+.form1{position:relative;left:40px;top:30px;box-shadow:1px 8px 50px #dedede;width: 500px;padding:5}
+.btns{position: relative;left:20px}
+.home_btn{position: relative;left: 40px}
+.home_para{display: inline}
+@media(max-width:998px){.input1{width:490px;height:90;position:absolute;left: 410px;font-size:2.3rem;margin:5px 0px}
+label{font-weight: 500;font-size: 2.3rem}
+.form1{position:relative;left:0px;top:40px;box-shadow:1px 8px 20px #9f9f9f;width: 910px;padding:5;}    
+.submitpara{display: inline;font-size: 2rem} 
+.homepara{display:inline;font-size: 2rem;}    
+
+h1{position: relative;top: 10px;;display: inline;width: 50px;font-size:3rem;left: 20px}  
+   
+    #exampleinputEmail1{;position: absolute;top:10}   
+    .heading{position:relative;font-size: 3.4rem;top:30px;left: 200}
+    .color{height:150;width:990;position:relative;right:40px;background:antiquewhite;color:orangered}
+/*
+ #exampleinputEmail2{;position: absolute;top:150}   
+ #exampleinputEmail3{;position: absolute;top:250}   
+ #exampleinputEmail4{;position: absolute;top:350}   
+ #exampleinputEmail5{;position: absolute;top:450}   
+ #exampleinputEmail6{;position: absolute;top:550}   
+ #exampleinputEmail7{;position: absolute;top:650}   
+ #exampleinputEmail8{;position: absolute;top:750}   
+*/
+    .join_col{position: relative;top:100px;right: 0px} 
+    .join{position:absolute;left: 20px;width:200px}
+    .logo{position: relative;left:190px;}
+    
+.home_para{display: inline;font-size: 2rem;} 
+    .join_para{font-size: 2.4rem;;position: relative;right:7px;text-align: center}      
+    .connect{text-align: center;font-size: 3rem} .connect_div{background-color: antiquewhite;width: 980px;position: relative;right:145px;height: 400px}  
+    .number{position: relative;top: 20px}
+    .yash{position: relative;left:180px;margin:auto;top:30px}
+    .ose{position: relative;left:100px;margin:auto;top:30px}
+    .number{position: relative;font-size:2.2rem;width:300;right: 10px;top:40}
+    
+    
+    
+}
+
+h1{position: relative;top: 15px;left:55px;display: inline;width: 500px;}
+label{font-weight: 500;}
+.home{position: relative;bottom:54px;left:120px}
+.submitpara{display: inline}
+.homepara{display:inline}
+.cont1{width: 100%;margin: 0px}
+.form_div_cont{position:relative;right: 100px}
+
+.logo{width:50%;position: relative;bottom:18px;}
+.live_dot{width:2%;position: relative;bottom:5px;right:0px}
+
+p{font-size:1.2rem}
+
+.join{position: relative;left:00px}
+.ri{position: relative;right:10px}
+.yash{width:40%;}
+.ose{width:50%;position: relative;right: 10;}
+.number{;position: relative;bottom:80px;left:120px;color:black}
+
