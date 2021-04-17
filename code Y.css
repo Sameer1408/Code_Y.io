@@ -210,19 +210,19 @@
 .top_image{position:absolute;z-index:0;width:100%;right: 0px;top:59px}
     
  .coursescard{position: absolute;top:950px;text-align: center;margin: auto;left: 100px; }   
-.need{;height: 500px;top: 2000px;position: relative}    
+.need{;height: 500px;top: 2250px;position: relative}    
     
- .develop{margin: 50px 0px 105px 0px;top:3180px;position: relative;width:80%;text-align: center;left: 100px;box-shadow:1px 8px 50px #dedede;height:650px}   
- .slider{top:3180px;position: relative;color: #292929; width:100%;margin:120px auto}   
+ .develop{margin: 50px 0px 105px 0px;top:3400px;position: relative;width:80%;text-align: center;left: 100px;box-shadow:1px 8px 50px #dedede;height:650px}   
+ .slider{top:3480px;position: relative;color: #292929; width:100%;margin:120px auto}   
     
-.us{top:3180px;position: relative}   
-.work{top:3380px;position: relative; height: 1600px;color: #292929;}   
+.us{top:3480px;position: relative}   
+.work{top:3680px;position: relative; height: 1600px;color: #292929;}   
  .student_work{position: relative;top:2900px;}   
 
     
-.best{height: 500px;top:4100px;position: relative;height:350px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
+.best{height: 500px;top:4350px;position: relative;height:350px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
     
- .location{height: 500px;top:4150px;position: relative;background-color:#00b6cf}   
+ .location{height: 500px;top:4350px;position: relative;background-color:#00b6cf}   
  .cardinternal{text-align: center;position:relative;margin: auto;width:28rem;visibility:visible;right:100px}   
 
 .slider3{position: relative;top:20px}
@@ -279,7 +279,7 @@
 .step6_img{position: relative;top:86px;left:85px;width: 20%}   
   .step_heading6{position: relative;bottom:150px;width:600px;left:300px;font-size: 2.5rem} .step_para6{position: relative;width:650px;bottom: 150px;left:300px;font-size:2.2rem}        
        
-  .top10{text-align: center;margin:100px 0px;font-weight:400;line-height: 3rem;font-size: 3rem;position: relative;width: 100%;top:1150px;line-height:4.5rem}  
+  .top10{text-align: center;margin:100px 0px;font-weight:400;line-height: 3rem;font-size: 3rem;position: relative;width: 100%;top:1420px;line-height:4.5rem}  
     
   .registar3{position: absolute;top:200px ;margin: auto;text-align: center;right: 350px}
   
@@ -310,15 +310,17 @@
     .wassp{width:180%}    
 .need_div{position:absolute;top:80px}    
     
-.graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;left:5px}
+.graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;left:0px}
     .deve{font-size: 3rem;margin-bottom: 50px}    
     
     .last_contact{height: 100px;position: fixed;bottom: 0px;width: 100%;background-color:#c4f8ff}   
     .contact_btn1{height: 80px;font-size: 2.4rem;width:250px;background-color: white;color: #00b6cf;border-color: #00b6cf}
     .contact1{position: relative;left:380px;top:8px}
     .space{border:1px solid; height: 100px;position: absolute;top:11680px}
+    .card-title{font-size:2.4rem}
+    .card-body{font-size: 2rem}
 }
-
+ .fotter_logo{position: relative;bottom: 150px;width: 20%}
 
 
 
