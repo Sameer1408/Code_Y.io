@@ -313,8 +313,10 @@
 .graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right:0px}
     .deve{font-size: 3rem;margin-bottom: 50px}    
     
-    
-    
+    .last_contact{height: 100px;position: fixed;bottom: 0px;width: 100%;background-color:#c4f8ff}   
+    .contact_btn1{height: 80px;font-size: 2.4rem;width:250px;background-color: white;color: #00b6cf;border-color: #00b6cf}
+    .contact1{position: relative;left:380px;top:8px}
+    .space{; height: 100px;position: absolute;top:11640px}
 }
 
 
@@ -329,7 +331,8 @@
 .graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right: 50px}
 .back{opacity:0.06;position: fixed;bottom: 0;z-index: 0}
 
-
+    .contact_btn1{position: absolute;top: 0px}
+   
 
 
 
