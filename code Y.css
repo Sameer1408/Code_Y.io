@@ -310,7 +310,7 @@
     .wassp{width:180%}    
 .need_div{position:absolute;top:80px}    
     
-.graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right:0px}
+.graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;left:0px}
     .deve{font-size: 3rem;margin-bottom: 50px}    
     
     .last_contact{height: 100px;position: fixed;bottom: 0px;width: 100%;background-color:#c4f8ff}   
