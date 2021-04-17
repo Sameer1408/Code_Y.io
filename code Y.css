@@ -310,8 +310,8 @@
     .wassp{width:180%}    
 .need_div{position:absolute;top:80px}    
     
-
-.graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;} 
+.graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right:0px}
+    .deve{font-size: 3rem;margin-bottom: 50px}    
     
     
     
@@ -327,7 +327,7 @@
 
 
 .graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right: 50px}
-
+.back{opacity:0.06;position: fixed;bottom: 0;z-index: 0}
 
 
 
