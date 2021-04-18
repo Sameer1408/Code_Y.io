@@ -28,7 +28,7 @@
 
 .coursescard{position: absolute;top: 750px;text-align: center;margin: auto;left: 100px; }
 
-.cardinternal{text-align: center;position: relative;margin: auto;width: 20rem}
+.cardinternal{text-align: center;position: relative;margin: auto;width: 20rem;height:400px}
 .cardinternal:hover{ box-shadow:1px 8px 30px #dedede;}
 
 .need{;height: 500px;top: 1200px;position: relative}
@@ -322,42 +322,26 @@
     .card_btn{width: 100%;font-size: 
     2.5rem}
     .heading_how{font-size: 3.5rem}
-    
-    
+    .card{height:600px}
+   .more{width: 250px;height: 50px;background-color: darkorange;border:none;color:white;font-weight: 500;font-size:2.1rem} 
     
     
 }
  .fotter_logo{position: relative;bottom: 150px;width: 20%}
 
 
+.more{width: 250px;height: 50px;background-color: darkorange;border:none;color:white;font-weight: 500;font-size:1.1rem}
 
 
 
-
-
-
-
+.more2{position: relative;top: 25px}
+.more3{position: relative;top:5px}
+.more1{position: relative;top: 20px}
 .graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right: 50px}
 .back{opacity:0.06;position: fixed;bottom: 0;z-index: 0}
 
     .contact_btn1{position: absolute;top: 0px}
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
