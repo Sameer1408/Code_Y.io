@@ -61,11 +61,16 @@
     .about_sameer1{font-size: 2rem;margin-top:50px;width: 60%}
     .about_sameer2{font-size: 2rem;width:40%;margin-top:50px}
     .verma{font-size: 2rem;margin-bottom: 20px}  
-    
-    
+    .you{;height:450px;width: 80%;margin: auto; box-shadow:1px 8px 50px #bfbfbf}    
+.image1{width:80%;position:relative;top:25px}
+.image2{width:60%;position:relative;top:25px}
+.image3{width: 64%;position:relative;top:42px}
+.image4{width: 140%;position:relative;top: 35px;right:40px}
+.image5{width: 50%;position:relative;top: 60px;left:80px}
+.image6{width:50%;position:relative;top: 60px;left:50px}
+.image7{width:60%;position:relative;top: 90px}
+    .you_sub{color: transparent;display:none;}  
+    .you_heading{text-align: center;font-size: 3rem;margin-bottom: 50px}
 }
-
-
-
 
 
