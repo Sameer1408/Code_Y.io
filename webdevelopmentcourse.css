@@ -72,5 +72,13 @@
     .you_sub{color: transparent;display:none;}  
     .you_heading{text-align: center;font-size: 3rem;margin-bottom: 50px}
 }
-
-
+.you_heading{text-align: center;font-size:2rem;margin-bottom:60px;margin-top: 20px}
+.image1{width:30%;position:relative;left:50px;bottom: 8px}
+.image2{width:22%;position:relative;right:80px;bottom: 5px}
+.image3{width:23%;position:relative;right:210px;top:8px}
+.image4{width:45%;position:relative;right:355px;top:8px }
+.image5{width:18%;position:relative;left:637px;bottom:70px}
+.image6{width:18%;position:relative;left:420px;bottom:70px}
+.image7{width:20%;position:relative;left:180px;bottom:60px}
+   .you_sub{color: transparent;display:none;}
+ .you{;height:250px;width: 80%;margin:80px auto; box-shadow:1px 8px 50px #bfbfbf} 
