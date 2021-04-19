@@ -28,7 +28,7 @@
 
 .coursescard{position: absolute;top: 750px;text-align: center;margin: auto;left: 100px; }
 
-.cardinternal{text-align: center;position: relative;margin: auto;width: 20rem;height:400px}
+.cardinternal{text-align: center;position: relative;margin: auto;width: 20rem;height:400px;color: #3e3e3e}
 .cardinternal:hover{ box-shadow:1px 8px 30px #dedede;}
 
 .need{;height: 500px;top: 1200px;position: relative}
@@ -334,14 +334,17 @@
 
 
 
-.more2{position: relative;top: 25px}
-.more3{position: relative;top:5px}
-.more1{position: relative;top: 20px}
+.more2{position: relative;top:8px}
+.more3{position: relative;top:62px}
+.more1{position: relative;top: 0px}
 .graph{width: 105%; box-shadow:1px 8px 10px #888888;position: relative;top: 15px;right: 50px}
 .back{opacity:0.06;position: fixed;bottom: 0;z-index: 0}
 
     .contact_btn1{position: absolute;top: 0px}
    
+
+
+
 
 
 
