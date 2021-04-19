@@ -71,7 +71,19 @@
 .image7{width:60%;position:relative;top: 90px}
     .you_sub{color: transparent;display:none;}  
     .you_heading{text-align: center;font-size: 3rem;margin-bottom: 50px}
+    .about_sameer{font-size: 1.2rem;color:#464646;margin:20px 0px; }
+.about_sameer1{font-size: 2rem;color:#464646;margin:20px 0px; }
+.about_sameer2{font-size: 1.2rem;color:#464646;margin:20px 0px; }
+.about_sameer3{font-size: 1.2rem;color:#1cc2ff;margin:20px 0px; font-weight: 700}
 }
+
+
+
+.about_sameer{font-size: 1.2rem;color:#464646;margin:20px 0px; }
+.about_sameer1{font-size: 1.2rem;color:#464646;margin:20px 0px; }
+.about_sameer2{font-size: 1.2rem;color:#464646;margin:20px 0px; }
+.about_sameer3{font-size: 1.2rem;color:#1cc2ff;margin:20px 0px; font-weight: 700}
+
 .you_heading{text-align: center;font-size:2rem;margin-bottom:60px;margin-top: 20px}
 .image1{width:30%;position:relative;left:50px;bottom: 8px}
 .image2{width:22%;position:relative;right:80px;bottom: 5px}
@@ -82,3 +94,5 @@
 .image7{width:20%;position:relative;left:180px;bottom:60px}
    .you_sub{color: transparent;display:none;}
  .you{;height:250px;width: 80%;margin:80px auto; box-shadow:1px 8px 50px #bfbfbf} 
+.me{width: 200px;font-size: 1.2rem;position: relative;top: 10px;height:50px;background-color:#fff;color: #ff8c00;border-color: #ff8c00}
+.me:hovor{background-color:  #ff8c00;color:white}
