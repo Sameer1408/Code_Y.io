@@ -25,7 +25,7 @@
 .sites{position: relative;top:120px;text-align: center;font-size: 1.6rem}
 .web_img1{display: block}
 .space1{display:none}
-
+.option{display:none}
 
 
 
@@ -49,7 +49,7 @@
     .now1{display:inline;margin-left: 130px}
     .cut1{display:inline;text-decoration: line-through}
     .price1{display:inline;}
-        
+    .option{display:block;margin: auto;box-shadow:1px 8px 50px #dedede;}    
     .enroll1{position: relative;top:20px;right:60px; }
     
   .payment_btn{width: 250px;height: 50px;background-color:#1cc2ff;border:none;color:white;font-weight: 500;font-size:2rem;position: relative;left:426px}  
@@ -61,8 +61,8 @@
     .about_sameer1{font-size: 2rem;margin-top:50px;width: 60%}
     .about_sameer2{font-size: 2rem;width:40%;margin-top:50px}
     .verma{font-size: 2rem;margin-bottom: 20px}  
-    .you{;height:450px;width: 80%;margin: auto; box-shadow:1px 8px 50px #bfbfbf}    
-.image1{width:80%;position:relative;top:25px}
+    .you{display: none}    
+.image1{width:100%;position:relative;top:25px}
 .image2{width:60%;position:relative;top:25px}
 .image3{width: 64%;position:relative;top:42px}
 .image4{width: 140%;position:relative;top: 35px;right:40px}
